@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "author": "vBook",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "hot truyện",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/plugin.zip",
+      "version": 1,
+      "source": "https://hotruyen.com",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/icon.png",
+      "description": "Đọc truyện trên trang https://hotruyen.com"
+    }
+    ]
+    {
+    {
